@@ -12,3 +12,7 @@ CyberCamp презентация - https://docs.google.com/presentation/d/1Jh0AY
 Слова по CyberCamp - https://docs.google.com/document/d/1eDkOL6NIP4Y4s5KCnH-NzfZPHfjdmp6HKCJenbeAzqU/edit?tab=t.0
 
 ОС - https://docs.google.com/document/d/1HSEueKcVjYzE_gYV0XoP7YeZ33UDrmVSTkTXW8wGXl0/edit?tab=t.0 
+
+конспект по Stepik - https://docs.google.com/document/d/1GSsVVsm4DpH8EiPa3pcbRkhn4e43kSzfvymJoUa5m9I/edit?tab=t.0#heading=h.7o8n11rugsp0
+
+конспект по Positive Technologies - https://docs.google.com/document/d/1EJzDZxS-0rvtbzNGy2wm3OQZs6qXbGOGyEnLlrzlclE/edit?tab=t.0#heading=h.7o8n11rugsp0
