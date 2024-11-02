@@ -10,3 +10,5 @@ CyberCamp презентация - https://docs.google.com/presentation/d/1Jh0AY
 ОБЖ - https://docs.google.com/document/d/17U5W2wPzem1ug0GWu9czkKpEimzTu1ZwrYZ6Vf6YGO8/edit?tab=t.0
 
 Слова по CyberCamp - https://docs.google.com/document/d/1eDkOL6NIP4Y4s5KCnH-NzfZPHfjdmp6HKCJenbeAzqU/edit?tab=t.0
+
+ОС - https://docs.google.com/document/d/1HSEueKcVjYzE_gYV0XoP7YeZ33UDrmVSTkTXW8wGXl0/edit?tab=t.0 
