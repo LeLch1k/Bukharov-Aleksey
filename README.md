@@ -18,6 +18,6 @@ CyberCamp презентация - https://docs.google.com/presentation/d/1Jh0AY
 
 конспект по Positive Technologies - https://docs.google.com/document/d/1EJzDZxS-0rvtbzNGy2wm3OQZs6qXbGOGyEnLlrzlclE/edit?tab=t.0#heading=h.7o8n11rugsp0
 
-Конмпект по Python - https://docs.google.com/document/d/1b9URjpgWnJAQZZRqxwWQFCjVZZa_aM5XQ8SLaCauJ64/edit?tab=t.0
+Конспект по Python - https://docs.google.com/document/d/1b9URjpgWnJAQZZRqxwWQFCjVZZa_aM5XQ8SLaCauJ64/edit?tab=t.0
 
 Введение в специальность - https://docs.google.com/document/d/1tQ7vjSfDaoMd6GcZi2YMzO1SPf9fSXcNDwWkwhYCGR8/edit?tab=t.0
