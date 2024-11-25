@@ -2,8 +2,6 @@
 # Bukharov-Aleksey
 GIT - https://docs.google.com/document/d/12N2E3YE0V4EXOO-0o8yFAGrV2EdL8jYdjrrHrL4S640/edit
 
-ВПР - https://docs.google.com/document/d/10qK3Dll1d9CrGfygBXrcUw4HL0FUjCqfcAXMxHOzIE0/edit
-
 Антикорупция - https://docs.google.com/presentation/d/1agO4vJUbAxLa2NJYByBF3KXYh6J9C8Poc-taWPdAJH0/edit#slide=id.p1
 
 CyberCamp презентация - https://docs.google.com/presentation/d/1Jh0AY7-STO1q74CZlrKOd2Ee7vCsMQfH/edit#slide=id.p1
