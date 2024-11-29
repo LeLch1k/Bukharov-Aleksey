@@ -19,3 +19,5 @@ CyberCamp презентация - https://docs.google.com/presentation/d/1Jh0AY
 Конспект по Python - https://docs.google.com/document/d/1b9URjpgWnJAQZZRqxwWQFCjVZZa_aM5XQ8SLaCauJ64/edit?tab=t.0
 
 Введение в специальность - https://docs.google.com/document/d/1tQ7vjSfDaoMd6GcZi2YMzO1SPf9fSXcNDwWkwhYCGR8/edit?tab=t.0
+
+Контрольная работа - https://docs.google.com/document/d/1JXmwv8U2cHjJ-Xpu8TSOswMRPh3eXvo85w039bhTfAA/edit?tab=t.0
